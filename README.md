@@ -1,0 +1,2 @@
+# Tic Tac Toe
+The Tic Tac Toe game lets users choose whether to play alone with the computer or play with someone else and whether to play as X or O. The player that gets 3 Xs or Os in a row wins. If all the squares are filled and no player has gotten 3 in a row, that results in a tie and the game will restart.
